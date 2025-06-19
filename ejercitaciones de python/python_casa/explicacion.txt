@@ -1,0 +1,8 @@
+Tuve muchos errores con git
+realicé muchos ejercicios de python de la etapa 2 y estaba en un git de la etapa 1 sobre pagina web.
+me costó entender lo que estaba haciendo mal
+tuve que crear una carpeta nueva
+clonar un repositorio existente que lo empecé en APA
+y desde mi casa crear una rama. 
+ahora voy a subir todos los archivos que estuve haciendo. 
+ 
